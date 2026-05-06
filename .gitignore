@@ -19,3 +19,4 @@ yarn-error.log*
 
 # Local debug / scratch
 .cursor/debug-*.log
+.vercel
